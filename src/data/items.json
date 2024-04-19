@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "name": "Phone",
+        "price": 1099.99,
+        "imgUrl": "/imgs/phone.jpg"
+      },
+      {
+      "id": 2,
+      "name": "Headphones",
+      "price": 59.95,
+      "imgUrl": "/imgs/headphones.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Coffee Maker",
+      "price": 34.50,
+      "imgUrl": "/imgs/coffeemaker.jpg"
+    },
+    {
+      "id": 4,
+      "name": "T-Shirt",
+      "price": 14.99,
+      "imgUrl": "/imgs/tshirt.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Laptop",
+      "price": 799.99,
+      "imgUrl": "/imgs/laptop.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Water Bottle",
+      "price": 12.99,
+      "imgUrl": "/imgs/waterbottle.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Desk Lamp",
+      "price": 29.99,
+      "imgUrl": "/imgs/desklamp.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Notebook",
+      "price": 7.99,
+      "imgUrl": "/imgs/notebook.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Wireless Headphones",
+      "price": 99.99,
+      "imgUrl": "https://via.placeholder.com/400x300?text=Wireless+Headphones"
+    },
+    {
+      "id": 10,
+      "name": "Smart Watch",
+      "price": 149.99,
+      "imgUrl": "https://via.placeholder.com/400x300?text=Smart+Watch"
+    },
+    {
+      "id": 11,
+      "name": "Gaming Keyboard",
+      "price": 79.99,
+      "imgUrl": "https://via.placeholder.com/400x300?text=Gaming+Keyboard"
+    },
+    {
+      "id": 12,
+      "name": "Portable Charger",
+      "price": 24.99,
+      "imgUrl": "https://via.placeholder.com/400x300?text=Portable+Charger"
+    },
+    {
+      "id":13,
+      "name": "Bluetooth Speaker",
+      "price": 39.99,
+      "imgUrl": "https://via.placeholder.com/400x300?text=Bluetooth+Speaker"
+    },
+    {
+      "id": 14,
+      "name": "Webcam",
+      "price": 59.99,
+      "imgUrl": "https://via.placeholder.com/400x300?text=Webcam"
+    },
+    {
+      "id": 15,
+      "name": "Desk Lamp",
+      "price": 29.99,
+      "imgUrl": "https://via.placeholder.com/400x300?text=Desk+Lamp"
+    },
+    {
+      "id": 16,
+      "name": "Notebook",
+      "price": 7.99,
+      "imgUrl": "https://via.placeholder.com/400x300?text=Notebook"
+    },
+    {
+      "id": 17,
+      "name": "External Hard Drive",
+      "price": 69.99,
+      "imgUrl": "https://via.placeholder.com/400x300?text=External+Hard+Drive"
+    },
+    {
+      "id": 18,
+      "name": "Wireless Mouse",
+      "price": 19.99,
+      "imgUrl": "https://via.placeholder.com/400x300?text=Wireless+Mouse"
+    }
+  ]
+  
